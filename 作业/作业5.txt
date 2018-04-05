@@ -1,0 +1,3 @@
+1.       比较 ConcurrentLinkedQueue 和 BlockingQueue的性能，并说明为什么。给出你的测试代码，和运行结果的截图。 
+
+2.       分析CopyOnWriteArrayList的核心代码，说明CopyOnWriteArrayList如何提高并行度。 

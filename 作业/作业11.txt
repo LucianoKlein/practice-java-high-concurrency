@@ -1,0 +1,3 @@
+1.      在QueuedThreadPool的实现中，使用了自定义的BlockingQueue——BlockingArrayQueue。请你阅读它的实现代码，给出它的实现主要逻辑。（poll和offer方法的实现），请你关注并且重点解释_indexes变量的用意。（使用jetty 9.2.10v20150310版本） 
+
+2.      请你阅读ArrayByteBufferPool的代码。为它的acquire和release方法写上详细的注释。尤其需要说明bucketFor()函数的含义和作用。 
